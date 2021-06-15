@@ -58,28 +58,26 @@ header {
     font-weight: 600;
 }
 
-.feedback{
+article {
     width: 1000px;
+    height: 100%;
     display: block;
     margin: 0 auto;
+    font-family: Montserrat;
 }
 
 .feedback li{
     list-style: none;
     padding-bottom: 10px;
-    font-family: Montserrat;
     font-size: 16px;
     font-weight: 600;
 }
 
-.feedback li img{
+.feedback li img {
     vertical-align: middle;
-
 }
 
 p {
-    width: 1000px;
-    display: block;
     margin: 0 auto;
 }
 
@@ -92,3 +90,4 @@ p {
     float: right;
     margin: 7px 0 7px 7px;
 }
+
