@@ -70,6 +70,7 @@ const fridge = new KitchenAppliances('GA-B419SQGL', 'LG', 15, 'Хранить п
 console.log(fridge)
 fridge.getBrand();
 fridge.getPower();
+fridge.getPurpose();
 fridge.switchOnOff(true)
 
 const stove = new KitchenAppliances('HKA090150', 'Bosch', 32, 'Приготовление пищи')

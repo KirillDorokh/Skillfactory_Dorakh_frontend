@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <button id="btn" onclick="clickMe()">press1</button>
+    <button id="but" >press2</button>
+    <button id="but2">press3</button>
+
+    <script>
+      function clickMe(){
+        alert('Clicked12')
+      }
+      but.onclick = clickMe;
+      but2.addEventListener("click", clickMe);
+      but2.addEventListener("click", function(){
+        alert('second click')
+      });
+    </script>
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
+
+@font-face {
+    src: url("fonts/CormorantGaramond-Regular.ttf");
+    font-family: 'CormorantGaramond Regular';
+}
+
+@font-face {
+    src: url("/fonts/CormorantGaramond-Bold.ttf");
+    font-family: 'CormorantGaramond Bold';
+}
+
+body {
+    margin: 0;
+    font-family: "CormorantGaramond Regular", "Times New Roman", serif;
+}
+
+p {
+    font-family: 'Gabriela', serif;
+}
+
+span {
+    font-family: 'Hina Mincho', serif;
+}

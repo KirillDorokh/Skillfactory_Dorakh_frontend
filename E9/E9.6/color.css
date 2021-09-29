@@ -1,0 +1,51 @@
+.one {
+    background-color: red;
+}
+.two {
+    background-color: yellow;
+}
+.three {
+    background-color: blue;
+}
+.four {
+    background-color: #FF0000FF;
+}
+.five {
+    background-color: #FFFF00FF;
+}
+.six {
+    background-color: #0000FFFF;
+}
+.container {
+    display: flex;
+    background-color: greenyellow;
+    width: 800px;
+    height: 300px;
+    border: 2px dashed;
+    border-color: black;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+}
+
+.free {
+    color: black;
+    font: 12px fantasy;
+}
+
+.new {
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+
+p {
+    color: rgba(55, 209, 41, 0.94);
+    background-image: none;
+}
+
+.catsandstars {
+    background-image:  url("https://mdn.mozillademos.org/files/11991/startransparent.gif"),
+    url("https://mdn.mozillademos.org/files/7693/catfront.png");
+    background-color: transparent;
+}

@@ -1,0 +1,62 @@
+h1 {
+    color: red;
+    background: blue;
+}
+
+a {
+    border: solid 1px black;
+    padding: 5px;
+    margin: 4px;
+}
+
+a[href="#Food"] {
+    background: orange;
+}
+
+a[href="#Household"] {
+    background: green;
+}
+
+a[href *= "et"]{
+    background: lightblue;
+}
+
+a[href $= "ice"]{
+    background: blue;
+}
+
+.food {
+    color: orange;
+}
+
+.household {
+    color: green;
+}
+
+.vet {
+    color: lightblue;
+}
+
+.not-bought {
+    color: red;
+}
+
+#Sofa {
+    color:purple;
+}
+
+#Food {
+    color: orange;
+}
+
+#Household {
+    color: green;
+}
+
+#Vet {
+    color: lightblue;
+}
+
+#Service {
+    color:purple;
+}

@@ -1,0 +1,9 @@
+ul:hover {
+    background: orange;
+}
+a:hover {
+    background: green;
+}
+li:nth-child(3n+1) {
+    background: purple;
+}

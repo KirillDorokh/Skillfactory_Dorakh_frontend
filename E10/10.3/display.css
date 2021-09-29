@@ -1,0 +1,30 @@
+span {
+    display:block;
+    height: 100px;
+}
+.red {
+    background-color:red;
+}
+.yellow {
+    background-color:yellow;
+}
+.blue {
+    background-color:blue;
+}
+
+div {
+    display:inline;
+    padding: 100px;
+}
+
+.green {
+    display: none;
+    background-color: green;
+}
+
+.purple{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}

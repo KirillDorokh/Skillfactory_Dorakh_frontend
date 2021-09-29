@@ -1,0 +1,91 @@
+.dashed {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border: 3px dashed black;
+}
+
+.double {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-style: double;
+    border-color: black;
+}
+
+.one {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+.two {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+}
+.three {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-width: thick;
+    border-style: solid;
+    border-color: black;
+}
+.nine {
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.ten {
+    background-color: white;
+    border-width: 10px;
+    border-style: double;
+    border-color: black;
+}
+.eleven {
+    border-width: 10px;
+    border-style: dotted;
+    border-color: black;
+}
+.four {
+    border-width: 10px;
+    border-style: dashed;
+    border-color: black;
+}
+.five {
+    border-width: 10px;
+    border-style: groove;
+    border-color: black yellow;
+}
+.six {
+    border-width: 10px;
+    border-style: ridge;
+    border-color: black yellow;
+}
+.seven {
+    border-width: 10px;
+    border-style: inset;
+    border-color: black yellow;
+}
+.eight {
+    border-width: 10px;
+    border-style: outset;
+    border-color: black yellow;
+}
+
+div {
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+    margin: 1px;
+    padding: 2px;
+    vertical-align: top;
+}

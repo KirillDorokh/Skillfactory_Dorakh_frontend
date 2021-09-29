@@ -1,0 +1,30 @@
+body nav a {
+    color: black;
+}
+nav a {
+    color: green;
+}
+a {
+    color: red;
+}
+body ul #Onion {
+    background: green;
+}
+ul #Onion {
+    background: orange;
+}
+#Onion {
+    background: red;
+}
+
+li {
+    font-size: 14px !important;
+}
+
+.item {
+    font-size: 18px !important;
+}
+
+ul li {
+    font-size: 16px !important;
+}

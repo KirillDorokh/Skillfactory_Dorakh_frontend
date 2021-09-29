@@ -1,0 +1,43 @@
+.gallery{
+    display: flex;
+    min-height: 300px;
+}
+
+.gallery > img {
+    width: 200px;
+}
+.photo-1 {
+    order: 2;
+}
+
+.photo-2 {
+    order: 4;
+}
+
+.city-photo {
+    order: -1;
+}
+
+.photo-4 {
+    order: 5;
+}
+
+.photo-5 {
+    order: 6;
+}
+
+.photo-6 {
+    order: 7;
+}
+
+.photo-7 {
+    order: 8;
+}
+
+.autumn-photo {
+    order: 3;
+}
+
+.photo-9 {
+    order: 9;
+}

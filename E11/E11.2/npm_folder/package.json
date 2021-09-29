@@ -1,0 +1,17 @@
+{
+  "name": "npm_folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiryldorakh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-dropdown": "^1.9.2",
+    "react-scripts": "^4.0.3"
+  }
+}
