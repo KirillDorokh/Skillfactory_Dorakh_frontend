@@ -1,0 +1,73 @@
+@import "variables";
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  height: 100%;
+  min-height: 100%;
+}
+
+header{
+  background-color: $base-color;
+  color: #ccb2b2 * 3;
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: $header-margin;
+  width: 500px - $base-offset;
+}
+
+main{
+  background-color: aqua;
+  color: black;
+  .content{
+    background-color: azure;
+    font-size: 1.2rem;
+    & > .content-list{
+      margin: 0;
+      padding: 0;
+      list-style-type: circle;
+
+      li{
+        text-transform: uppercase;
+        text-decoration: underline;
+
+        &:hover {
+          color:green;
+        }
+      }
+    }
+    & .active{
+      color: blue;
+    }
+  }
+}
+
+@mixin button($color, $background){
+  color: $color;
+  background-color: $background;
+  border: $base-border;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button{
+  @include button($base-color, white);
+}
+
+.button-red{
+  @include button(white, red);
+
+}
+
+.button-green{
+  @include button(white, green);
+}
+
+.button-blue{
+  @include button(white, blue);
+}

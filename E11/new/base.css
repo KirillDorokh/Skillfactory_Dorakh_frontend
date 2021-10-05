@@ -1,0 +1,83 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  height: 100%;
+  min-height: 100%;
+}
+
+header {
+  background-color: #4d4d4d;
+  color: white;
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.75rem 0 !important;
+  width: 490px;
+}
+
+main {
+  background-color: aqua;
+  color: black;
+}
+
+main .content {
+  background-color: azure;
+  font-size: 1.2rem;
+}
+
+main .content > .content-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: circle;
+}
+
+main .content > .content-list li {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+main .content > .content-list li:hover {
+  color: green;
+}
+
+main .content .active {
+  color: blue;
+}
+
+.button {
+  color: #4d4d4d;
+  background-color: white;
+  border: 1px solid #817171;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-red {
+  color: white;
+  background-color: red;
+  border: 1px solid #817171;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-green {
+  color: white;
+  background-color: green;
+  border: 1px solid #817171;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-blue {
+  color: white;
+  background-color: blue;
+  border: 1px solid #817171;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}

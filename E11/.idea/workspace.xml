@@ -2,135 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffbc6e37-a386-483d-891c-a6bf916b44b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../E10/10.3/display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/10.3/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.2/fonr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.2/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/colomn/col.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/colomn/col.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/gallery1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/gallery2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/img2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/order/order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.4/order/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/adaptive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/adaptive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/example/example.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/example/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.5/grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.7/import.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/E10.7/import.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E10/final task/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.3/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.3/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.4/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.5/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/E5.6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E5/form/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/AJAX_async_2/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/AJAX_async_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/AJAX_async_2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/callback.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/callback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/setinterval.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/setinterval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/timeout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/timeout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/timeout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/xhr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.3/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/JSON.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/JSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/XML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/XML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/task/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/task/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/task/2json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/E6.4/task/2json.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/XHR_JSON_2/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/XHR_JSON_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/XHR_JSON_2/index2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/XHR_Json_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E6/XHR_Json_1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.2/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/SVG.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/SVG.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/SVG.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/svg_icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/svg_icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/svg_icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/task/flags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/task/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/task/icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.3/task/icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.4/canvas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.4/canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.4/canvas2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.4/canvas2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/geo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/geo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/geo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/notif.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/notif.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/screen_size.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/geosize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/geosize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/geosize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/timezone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/timezone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.5/task/timezone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.6/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.6/worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.7/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.7/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E7/E7.7/task/socket_chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E8/E8.4/frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.10/span.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.10/spann.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.2/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.3/selector.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.3/selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.3/selector2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.3/selector3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.4/pseudo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.4/pseudo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.5/priority.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.5/priority.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.5/pry2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.5/pry2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.6/color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.6/color.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.8/border.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.8/border.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.8/cir.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.8/circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.9/position.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/E9.9/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/task/task.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E9/task/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E4/task/task5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../E4/task/task5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E11.4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -142,10 +28,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -160,10 +48,27 @@
       <workItem from="1632851268735" duration="3512000" />
       <workItem from="1632941975232" duration="76000" />
       <workItem from="1632942054488" duration="69000" />
+      <workItem from="1633266255395" duration="2335000" />
+      <workItem from="1633356308021" duration="1237000" />
+      <workItem from="1633368366780" duration="123000" />
+      <workItem from="1633368871764" duration="3282000" />
+      <workItem from="1633446254040" duration="5072000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
