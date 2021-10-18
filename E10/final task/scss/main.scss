@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+
+@import "hero";
+@import "header";
+@import "variables";
+@import "media";
+@import "animations";
+
+
+/* MAIN PART */
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: $base-color;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;*/
+  font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 2rem auto;
+
+  p{
+    color:$border-color;
+    margin: 1rem 0;
+  }
+}
+
+
+/*.bg-video{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+*/
