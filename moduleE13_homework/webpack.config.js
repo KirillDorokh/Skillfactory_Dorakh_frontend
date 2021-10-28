@@ -3,22 +3,19 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const TerserWebpackPlugin = require('terser-webpack-plugin');
 const OptimizeCssAssetsWebpackPlugin = require('optimize-css-assets-webpack-plugin');
 
-
-module.exports = {
+const config = {
     entry: './src/index.ts',
-    mode: 'development',
+    mode: 'production',
+    devtool: 'inline-source-map',
     devServer: {
         port: 9000,
-        static: ['dist'],
+        static: './dist',
         compress: true,
         client: {
             logging: 'info',
             reconnect: 5,
         },
         hot: 'only',
-    },
-    output: {
-        filename: 'main.js'
     },
     plugins: [
         new MiniCssExtractPlugin(),
@@ -59,4 +56,20 @@ module.exports = {
             }
         ]
     }
+
+};
+
+module.exports = (env, argv) => {
+
+    if (argv.mode === 'development') {
+        config.output = {
+            filename: 'main.js',
+        };
+    }
+    if (argv.mode === 'production') {
+        config.output = {
+            filename: 'super.js',
+        };
+    }
+    return config;
 }
