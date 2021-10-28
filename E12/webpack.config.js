@@ -7,6 +7,12 @@ const StylelintPlugin = require('stylelint-webpack-plugin');
 module.exports = {
     entry: './src/index.ts',
     mode: 'development',
+    devServer: {
+        contentBase: './dist',
+        port: 3001,
+        children: false,
+        maxModules: 0
+    },
     output: {
         filename: "main.js"
     },
